@@ -55,7 +55,7 @@ float movz = 0.0f;
 float movx1 = 0.0f;
 
 
-bool anim = false;
+bool anim = true;
 float posicion = 0.0;
 
 bool recorrido1 = true;
@@ -76,7 +76,7 @@ int main()
     glfwWindowHint(GLFW_RESIZABLE, GL_FALSE);
 
     // Create a GLFWwindow object that we can use for GLFW's functions
-    GLFWwindow* window = glfwCreateWindow(WIDTH, HEIGHT, "Practica 4", nullptr, nullptr);
+    GLFWwindow* window = glfwCreateWindow(WIDTH, HEIGHT, "Proyecto Final", nullptr, nullptr);
 
     if (nullptr == window)
     {
@@ -149,7 +149,6 @@ int main()
 
         // Draw the loaded model
         glm::mat4 model(1);
-        //model = glm::translate(model, glm::vec3(-0.362f, -1.161f, -0.018f));
         glUniformMatrix4fv(glGetUniformLocation(shader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
         restaurante.Draw(shader);
 
@@ -297,7 +296,7 @@ void DoMovement()
             }
             else
             {
-                movx += 0.02f;
+                movx += 0.03f;
             }
         }
         if (recorrido2)
@@ -311,7 +310,7 @@ void DoMovement()
             }
             else
             {
-                movx -= 0.02f;
+                movx -= 0.03f;
             }
         }
     }
@@ -368,7 +367,7 @@ void KeyCallback(GLFWwindow* window, int key, int scancode, int action, int mode
         }
     }
 
-    if (keys[GLFW_KEY_O]) {
+    if (keys[GLFW_KEY_Z]) {
         movimiento += 1;
         if (movimiento % 2 == 0)
         {
@@ -381,7 +380,7 @@ void KeyCallback(GLFWwindow* window, int key, int scancode, int action, int mode
 
     }
 
-    if (keys[GLFW_KEY_SPACE])
+    if (keys[GLFW_KEY_X])
     {
         active = !active;
         anim = !anim;
