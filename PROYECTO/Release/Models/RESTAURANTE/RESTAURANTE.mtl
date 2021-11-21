@@ -1,0 +1,1933 @@
+newmtl RESTAURANTE:Eyes_Color_png
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material28
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material30
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material32
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material36
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material38
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material40
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material42
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material44
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material46
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material48
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material50
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material52
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material54
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material56
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material58
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material60
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material62
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material64
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material66
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material68
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material70
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material72
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material74
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_003
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_005
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_007
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_009
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_011
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_013
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_015
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_017
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_019
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_021
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_023
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_025
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_027
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_029
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_031
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_033
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_035
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_037
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_039
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_041
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_043
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_045
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_047
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_049
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_051
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_053
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_055
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_057
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_059
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_061
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_063
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_065
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_067
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_069
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_071
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_073
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Material_075
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RESTAURANTE:Mouth
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl RESTAURANTE:Pants_Flowers_png
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl RESTAURANTE:Skin_skin_png
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl RESTAURANTE:___Default
+illum 4
+Kd 0.03 0.03 0.03
+Ka 0.03 0.03 0.03
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.04 0.04 0.44
+Ns 10.00
+newmtl RESTAURANTE:enter_YAZI
+illum 4
+Kd 0.80 0.07 0.07
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 180.00
+newmtl RESTAURANTE:enter_tabela
+illum 4
+Kd 0.76 0.70 0.25
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 180.00
+newmtl RESTAURANTE:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl RESTAURANTE:initialShadingGroup2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd NEGRO.JPG
+Ni 1.00
+newmtl RESTAURANTE:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.png
+Ni 1.00
+newmtl RESTAURANTE:lambert2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaColumna.png
+Ni 1.00
+newmtl RESTAURANTE:lambert2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd OJO.png
+Ni 1.00
+newmtl RESTAURANTE:lambert2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd AMARILLO.png
+Ni 1.00
+newmtl RESTAURANTE:lambert2SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.JPG
+Ni 1.00
+newmtl RESTAURANTE:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd MORADO.png
+Ni 1.00
+newmtl RESTAURANTE:lambert3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaPared.png
+Ni 1.00
+newmtl RESTAURANTE:lambert3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.png
+Ni 1.00
+newmtl RESTAURANTE:lambert3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.JPG
+Ni 1.00
+newmtl RESTAURANTE:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd AMARILLO.png
+Ni 1.00
+newmtl RESTAURANTE:lambert4SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VIDRIO.jpg
+Ni 1.00
+newmtl RESTAURANTE:lambert4SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd AMARILLO.png
+Ni 1.00
+newmtl RESTAURANTE:lambert4SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd CAFE.JPG
+Ni 1.00
+newmtl RESTAURANTE:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BANDERA_1.jpg
+Ni 1.00
+newmtl RESTAURANTE:lambert5SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.png
+Ni 1.00
+newmtl RESTAURANTE:lambert5SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd NARANJA.JPG
+Ni 1.00
+newmtl RESTAURANTE:lambert5SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Flowers.png
+Ni 1.00
+newmtl RESTAURANTE:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BANDERA_2.jpg
+Ni 1.00
+newmtl RESTAURANTE:lambert6SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd NEGRO.png
+Ni 1.00
+newmtl RESTAURANTE:lambert6SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cuerpo.png
+Ni 1.00
+newmtl RESTAURANTE:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BANDERA_3.jpg
+Ni 1.00
+newmtl RESTAURANTE:lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PANTALON.png
+Ni 1.00
+newmtl RESTAURANTE:lambert7SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cuerpo.png
+Ni 1.00
+newmtl RESTAURANTE:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BANDERA_4.jpg
+Ni 1.00
+newmtl RESTAURANTE:lambert8SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd CAFE.png
+Ni 1.00
+newmtl RESTAURANTE:lambert8SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+newmtl RESTAURANTE:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BANDERA_5.jpg
+Ni 1.00
+newmtl RESTAURANTE:lambert9SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ojo.png
+Ni 1.00
+newmtl RESTAURANTE:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd METAL.jpg
+Ni 1.00
+newmtl RESTAURANTE:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LAZO.jpg
+Ni 1.00
+newmtl RESTAURANTE:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PISO.jpg
+Ni 1.00
+newmtl RESTAURANTE:lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PIEDRA.jpg
+Ni 1.00
+newmtl RESTAURANTE:lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd AMARILLO.jpg
+Ni 1.00
+newmtl RESTAURANTE:lambert17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:lambert18SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd MADERA.JPG
+Ni 1.00
+newmtl RESTAURANTE:lambert19SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PINTURA.jpg
+Ni 1.00
+newmtl RESTAURANTE:lambert20SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:lambert21SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd CAFE.jpg
+Ni 1.00
+newmtl RESTAURANTE:lambert22SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd GRIS.jpg
+Ni 1.00
+newmtl RESTAURANTE:lambert23SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd MESA1.jpg
+Ni 1.00
+newmtl RESTAURANTE:lambert24SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:lambert25SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BARRIL.JPG
+Ni 1.00
+newmtl RESTAURANTE:lambert26SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VIDRIO.jpg
+Ni 1.00
+newmtl RESTAURANTE:lambert27SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BORDE.jpg
+Ni 1.00
+newmtl RESTAURANTE:lambert28SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:lambert29SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:lambert30SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROSA.PNG
+Ni 1.00
+newmtl RESTAURANTE:loop
+illum 4
+Kd 0.34 0.30 0.22
+Ka 0.34 0.30 0.22
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.63 0.63 0.63
+Ns 65.00
+newmtl RESTAURANTE:loop2
+illum 4
+Kd 0.34 0.30 0.22
+Ka 0.34 0.30 0.22
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.63 0.63 0.63
+Ns 65.00
+newmtl RESTAURANTE:pasted__lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaColumna.png
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaPared.png
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VIDRIO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BANDERA_1.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BANDERA_2.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BANDERA_3.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BANDERA_4.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BANDERA_5.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd METAL.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LAZO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PISO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PIEDRA.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd AMARILLO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert18SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd MADERA.JPG
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert19SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PINTURA.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert20SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert21SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd CAFE.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert22SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd GRIS.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert23SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd MESA1.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert24SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert25SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BARRIL.JPG
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert26SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VIDRIO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert27SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BORDE.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert28SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert28SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert28SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert28SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert28SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert28SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert28SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert28SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert28SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert28SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert28SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert28SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert28SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert28SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert28SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert28SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert29SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert29SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert29SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert29SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert29SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert29SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert29SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert29SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert29SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert29SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert29SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert29SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert29SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert29SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert29SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert29SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert30SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROSA.PNG
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert30SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROSA.PNG
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert30SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROSA.PNG
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert30SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROSA.PNG
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert30SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROSA.PNG
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert30SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROSA.PNG
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert30SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROSA.PNG
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert30SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROSA.PNG
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert30SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROSA.PNG
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert30SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROSA.PNG
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert30SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROSA.PNG
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert30SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROSA.PNG
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert30SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROSA.PNG
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert30SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROSA.PNG
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert30SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROSA.PNG
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert30SG25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROSA.PNG
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert30SG29
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROSA.PNG
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert30SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROSA.PNG
+Ni 1.00
+newmtl RESTAURANTE:pasted__lambert30SG36
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROSA.PNG
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert28SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert28SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert28SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert28SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert28SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert28SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert28SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert28SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert28SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert28SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert28SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert28SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert28SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert28SG25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert28SG27
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert28SG30
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert28SG32
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert28SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert29SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert29SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert29SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert29SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert29SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert29SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert29SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert29SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert29SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert29SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert29SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert29SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert29SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert29SG25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert29SG27
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert29SG30
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert29SG32
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__lambert29SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__pasted__lambert28SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__pasted__lambert28SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__pasted__lambert28SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__pasted__lambert29SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__pasted__lambert29SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:pasted__pasted__pasted__lambert29SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BLANCO.jpg
+Ni 1.00
+newmtl RESTAURANTE:wire_000000000
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl RESTAURANTE:wire_135006006
+illum 4
+Kd 0.53 0.02 0.02
+Ka 0.53 0.02 0.02
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
